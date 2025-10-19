@@ -17,8 +17,7 @@ The goal is to **clean**, **analyze**, and **visualize** the dataset to identify
 ## 🧰 Tools & Technologies
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, WordCloud  
-- **IDE / Environment:** Jupyter Notebook or Google Colab  
-- **Visualization Tool (Optional):** Tableau  
+- **IDE / Environment:** Visual Studio code
 
 ---
 
